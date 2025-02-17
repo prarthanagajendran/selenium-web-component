@@ -65,3 +65,13 @@ public class Automateguvisignup {
 
 	}
 }
+
+
+
+
+/*output
+Almost Done! Check Your Inbox!
+Signed up successfully
+GUVI | Login
+You're successfully Logged-in
+*/

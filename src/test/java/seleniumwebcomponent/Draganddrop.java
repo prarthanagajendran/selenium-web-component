@@ -36,3 +36,9 @@ public class Draganddrop {
 	}
 
 }
+
+/*output
+ * Dropped!
+rgba(255, 250, 144, 1)
+Drag and drop operation was successful!
+*/

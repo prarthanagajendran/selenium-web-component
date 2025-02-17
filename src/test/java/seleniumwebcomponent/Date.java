@@ -31,3 +31,7 @@ public class Date {
 	}
 
 }
+/*outpu
+ * 22
+Browser closed
+*/
